@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Zadanie20.12.2023\Zadanie\Zadanie\bin\Debug\Zadanie.exe.config
+C:\Users\user\Desktop\Zadanie20.12.2023\Zadanie\Zadanie\bin\Debug\Zadanie.exe
+C:\Users\user\Desktop\Zadanie20.12.2023\Zadanie\Zadanie\bin\Debug\Zadanie.pdb
+C:\Users\user\Desktop\Zadanie20.12.2023\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Zadanie20.12.2023\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Zadanie20.12.2023\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Zadanie20.12.2023\Zadanie\Zadanie\obj\Debug\Zadanie.exe
+C:\Users\user\Desktop\Zadanie20.12.2023\Zadanie\Zadanie\obj\Debug\Zadanie.pdb
